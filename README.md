@@ -1,0 +1,2 @@
+# market-pattern-recognition-ai-smart-order-execution-engine-universal-automation-framework
+Hi, I’m Farooq — a trader &amp; automation developer who loves building smart systems. I work on Python-based trading bots, risk models, backtesting engines, and automation tools that reduce manual work and improve decision-making.  My repos focus on:  Real-time market data processing  Strategy automation &amp; execution  Machine-assisted trading workflows
